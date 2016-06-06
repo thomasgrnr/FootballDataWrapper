@@ -1,0 +1,1 @@
+from .FootballDataWrapper import FootballDataWrapper as wrapper

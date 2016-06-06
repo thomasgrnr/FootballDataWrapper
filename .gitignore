@@ -1,4 +1,6 @@
 *.venv
 *.idea
+*.egg-info
 config/
 data/
+test/
